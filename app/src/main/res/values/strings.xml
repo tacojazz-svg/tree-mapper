@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tree Mapper</string>
+    <string name="plant_found">🌳 Plante repérée</string>
+    <string name="list_trees">📋 Liste</string>
+    <string name="export">📸 Exporter</string>
+    <string name="tree_title">Arbre %d</string>
+    <string name="tree_added">🌳 Arbre %d ajouté !</string>
+    <string name="tree_deleted">Arbre %d supprimé</string>
+    <string name="tree_coordinates">Latitude : %.6f\nLongitude : %.6f</string>
+    <string name="tree_list_title">Arbres repérés</string>
+    <string name="tree_list_item">Arbre %d — %.6f, %.6f</string>
+    <string name="no_trees_yet">Aucun arbre repéré pour l\'instant.</string>
+    <string name="no_location_yet">Position GPS non disponible. Veuillez patienter…</string>
+    <string name="location_permission_denied">Permission de localisation refusée. L\'application ne peut pas fonctionner sans GPS.</string>
+    <string name="storage_permission_denied">Permission de stockage refusée. Impossible d\'exporter.</string>
+    <string name="export_success">Carte sauvegardée : %s</string>
+    <string name="export_failed">Échec de l\'export.</string>
+    <string name="delete">Supprimer</string>
+    <string name="close">Fermer</string>
+</resources>
